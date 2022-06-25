@@ -1,6 +1,5 @@
 ## set to  the file with  the excel file that I send to you as an example
-# setwd("C:/Users/Hon Yiu So/OneDrive - oakland.edu/MaryThompson/CLSA/Alexandra")
-# setwd("~/OneDriveOakland/OneDrive - oakland.edu/MaryThompson/CLSA/Alexandra")
+
 
 comp2r <- read.csv("CLSASmallExample.csv", header=TRUE)
 cent.vec <- c(2.5,5,50,95,97.5)
